@@ -4,5 +4,7 @@ def str_upper(input_str):
     :param input_str: Строка
     :return:
     """
+    # docstring был доавлен с фукнкией изначально
+    # поэтому будет имитировать работу другого разработчика через комментарий =) 
     return input_str.upper()
 
